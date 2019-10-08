@@ -1,0 +1,13 @@
+{
+  "name": "nizerin/swoole-ide-helper",
+  "type": "library",
+  "keywords": [
+    "php",
+    "swoole",
+    "framework",
+    "ide-helper"
+  ],
+  "description": "IDE helper for PHP framework and Swoole",
+  "license": "Apache-2.0",
+  "require-dev": {}
+}
