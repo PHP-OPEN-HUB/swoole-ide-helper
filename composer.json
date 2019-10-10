@@ -17,5 +17,8 @@
   ],
   "description": "IDE helper for PHP framework and Swoole",
   "license": "Apache-2.0",
+  "require": {
+    "php": ">=7.2"
+  },
   "require-dev": {}
 }
